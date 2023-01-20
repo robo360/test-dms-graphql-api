@@ -18,7 +18,7 @@ This API allows:
 
 ## Why a GraphQL API? 
 
- - Flexible (it's a query standard, so very agnostic)
+ - Flexible (it's a query standard)
 	 -  client decides what data it wants and how, which is very different from REST framework where endpoints are rigid
  - Robust
 	 -  websockets based interactions such as subscription and streams
