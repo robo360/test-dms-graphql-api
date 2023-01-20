@@ -12,6 +12,7 @@ This API allows:
  6. Keep track of active status and typing status
 
 **API Endpoint:** https://test-dms.hasura.app/v1/graphql
+
 **Secret-key:** ayHkGqEx09jkYgJ0tWUaeGd2161LTVvyqXo9TySWrFx1tP90njS9HNH7c8RtpepG (Normally, this should be kept a secret, but in this context we don't care)
 
 
