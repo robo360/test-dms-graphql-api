@@ -4,12 +4,12 @@ This repo contains the metadata and migrations for a test dm GraphQL API.  Note 
 
 This API allows: 
 
- **1. Create a user 
- 2. Create a conversation **(i.e a conversation is a channel that a user is subscribed to. A DM 			between 2 people would be 1 conversation with two users subscribed to it. A conversation can host any number of users, including 1 user, where a person can message themselves)**
+ 1. Create a user 
+ 2. Create a conversation (i.e a conversation is a channel that a user is subscribed to. A DM between 2 people would be 1 conversation with two users subscribed to it. A conversation can host any number of users, including 1 user, where a person can message themselves)
  3. Retrieve conversations that a user is engaged in
  4. Retrieve message in a conversation 
  5. Sending messages
- 6. Keep track of active status and typing status**
+ 6. Keep track of active status and typing status
 
 **API Endpoint:** https://test-dms.hasura.app/v1/graphql
 **Secret-key:** ayHkGqEx09jkYgJ0tWUaeGd2161LTVvyqXo9TySWrFx1tP90njS9HNH7c8RtpepG (Normally, this should be kept a secret, but in this context we don't care)
