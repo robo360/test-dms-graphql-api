@@ -9,7 +9,7 @@ This API allows:
  3. Retrieve conversations that a user is engaged in
  4. Retrieve message in a conversation 
  5. Sending messages
- 6. Keep track of active status and typing status
+ 6. Keep track of online status
 
 **API Endpoint:** https://test-dms.hasura.app/v1/graphql
 
