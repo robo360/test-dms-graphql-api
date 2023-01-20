@@ -175,3 +175,4 @@ A GraphQL mutation to subscribe to people who are online at the moment:
 ## Inspirations
 
 https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/streaming-subscriptions-chat
+https://hasura.io/blog/building-real-time-chat-apps-with-graphql-streaming-subscriptions/
